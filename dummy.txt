@@ -2,3 +2,4 @@ Aug 5 19:24:03 2017 +0800, commit message=initial commit
 Aug 17 23:04:57 2017 +0800, commit message=update minor bug fix
 Aug 29 20:38:59 2017 +0800, commit message=database handler change
 Sep 12 14:32:50 2017 +0800, commit message=birthday edition
+Sep 13 23:51:55 2017 +0800, commit message=minor bug fix
