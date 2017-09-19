@@ -7,3 +7,4 @@ Sep 15 16:15:32 2017 +0800, commit message=minor bug fix
 Sep 16 19:46:29 2017 +0800, commit message=major bug fix
 Sep 17 16:52:31 2017 +0800, commit message=change folder names
 Sep 18 16:13:17 2017 +0800, commit message=database handler change
+Sep 19 23:21:05 2017 +0800, commit message=refactoring
