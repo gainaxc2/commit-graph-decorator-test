@@ -11,3 +11,4 @@ Sep 19 23:21:05 2017 +0800, commit message=refactoring
 Sep 21 22:59:43 2017 +0800, commit message=Update README.md
 Sep 21 18:40:33 2017 +0800, commit message=new VI and models
 Sep 22 20:26:33 2017 +0800, commit message=Added git commit hocks
+Sep 23 11:00:39 2017 +0800, commit message=cleaning up
