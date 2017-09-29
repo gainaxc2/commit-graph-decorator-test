@@ -16,3 +16,4 @@ Sep 25 16:58:54 2017 +0800, commit message=cleaning up
 Sep 27 22:27:23 2017 +0800, commit message=updated gitignore
 Sep 27 11:13:45 2017 +0800, commit message=Extracted function to parse daily count from a Contributions SVG and бн
 Sep 28 17:24:14 2017 +0800, commit message=Added JavaScript '3.5-dev' to build bot
+Sep 29 09:09:45 2017 +0800, commit message=change folder names
