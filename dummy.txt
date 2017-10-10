@@ -26,3 +26,4 @@ Oct 5 10:24:05 2017 +0800, commit message=cleaning up
 Oct 6 15:23:39 2017 +0800, commit message=update minor bug fix
 Oct 8 00:03:43 2017 +0800, commit message=database handler change
 Oct 9 19:17:44 2017 +0800, commit message=birthday edition
+Oct 10 22:18:32 2017 +0800, commit message=minor bug fix
