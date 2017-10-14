@@ -29,3 +29,4 @@ Oct 9 19:17:44 2017 +0800, commit message=birthday edition
 Oct 10 22:18:32 2017 +0800, commit message=minor bug fix
 Oct 12 18:17:36 2017 +0800, commit message=minor bug fix
 Oct 13 12:41:37 2017 +0800, commit message=major bug fix
+Oct 14 14:45:49 2017 +0800, commit message=cleaning up
